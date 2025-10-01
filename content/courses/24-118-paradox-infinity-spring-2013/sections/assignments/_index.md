@@ -45,4 +45,4 @@ The End-of-Term assignment counts for 50% of the course grade.
 Academic Integrity
 ------------------
 
-Any suspicion of plagiarism or academic dishonesty will be aggressively pursued. Please consult MIT's [Handbook on Academic Integrity](http://web.mit.edu/academicintegrity/handbook/handbook.pdf).
+Any suspicion of plagiarism or academic dishonesty will be aggressively pursued. Please consult MIT's {{% resource_link "3198f3ac-bdc9-436a-bdc6-da2998bf24cd" "Handbook on Academic Integrity" %}}.

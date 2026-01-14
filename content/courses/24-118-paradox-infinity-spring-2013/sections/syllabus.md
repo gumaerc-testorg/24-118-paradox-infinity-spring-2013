@@ -31,7 +31,7 @@ Readings
 
 There is one required textbook:
 
-{{% resource_link "861c0788-5ec1-48c2-9070-c589a0bcaa92" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Rucker, Rudy. _Infinity and the Mind: The Science and Philosophy of the Infinite_. Princeton University Press, 2004. ISBN: 9780691121277.
+[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0691121273/ref=nosim/mitopencourse-20) Rucker, Rudy. _Infinity and the Mind: The Science and Philosophy of the Infinite_. Princeton University Press, 2004. ISBN: 9780691121277.
 
 (If you have the 1995 printing, that's okay too; all you'll be missing is a new preface by the author.)
 
